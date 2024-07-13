@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mavurapu Akshith Reddy</h1>
-<h3 align="center">Passionate about Robotics</h3>
+<h3 align="center">Passionate about Technology</h3>
 
 - 🔭 I’m currently working on **Reinforcement learning**
 
