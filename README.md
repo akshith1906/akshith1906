@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Reinforcement learning**
 
-- 🌱 I’m currently reading and implement reinforcement learning algorithems. 
+- 🌱 I’m currently reading and implementing reinforcement learning algorithems. 
 
 - 📫 How to reach me **akshith.reddy@students.iiit.ac.in**
 
