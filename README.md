@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mavurapu Akshith Reddy</h1>
 <h3 align="center">Passionate about Technology</h3>
 
-- 🔭 I’m currently working on **Reinforcement learning**
+- 🔭 I’m currently a student at **Robotics Research Center, IIITH**
 
 - 📫 How to reach me **akshith.reddy@students.iiit.ac.in**
 
